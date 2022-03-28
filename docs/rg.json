@@ -1,0 +1,63 @@
+{
+      "accessPolicy": "OPEN",
+      "dataSample": {
+      },
+      "itemStatus": "ACTIVE",
+      "type": [
+        "iudx:ResourceGroup",
+        "iudx:WasteManagement"
+      ],
+      "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+      "iudxResourceAPIs": [
+        "ATTR",
+        "TEMPORAL"
+      ],
+      "location": {
+        "address": "Varanasi",
+        "type": "Place"
+      },
+      "@context": "https://voc.iudx.org.in/",
+      "tags": [
+        "dustbin",
+        "dustbin level",
+        "solid waste management",
+        "waste vehicle",
+        "waste dump",
+        "tracking",
+        "capacity",
+        "pickup time",
+        "cleaned time"
+      ],
+      "name": "varanasi-swm",
+      "description": "Solid waste management in smart city contexts involves waste collecting containers (bins) and waste collecting vehicles. Bins are fitted with sensors to monitor the realtime volume (or level) of waste contained within it and the details of the last collected time and vehicle which serviced it. Vehicles are fitted with GPS sensors that report the latest location along with the license_plate (identifier) of that particular vehicle.  This sandbox shows analytics such as - \n 1. Distrubtion of bins across the city \n 2. Regions in which the vehicles ply \n 3. Derived schedules and routes of vehicles and temporal trends \n 4. Bins which are not serviced by any vehicles. <br/>  <img src=\"https://raw.githubusercontent.com/datakaveri/sandbox-swm/main/docs/varanasiswm.jpg\" alt=\"SWM depiction\" height=\"200\" width=\"300\"/> <img src=\"https://raw.githubusercontent.com/datakaveri/sandbox-swm/main/docs/analytic1.png\" alt=\"Analytic1\" height=\"200\" width=\"300\"/> <br/> <img src=\"https://raw.githubusercontent.com/datakaveri/sandbox-swm/main/docs/analytic2.png\" alt=\"Analytic2\" height=\"200\" width=\"300\"/>",
+      "resourceServer": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in",
+      "resourceType": "MESSAGESTREAM",
+      "label": "Varanasi Solid Waste Management",
+      "dataDescriptor": {
+      },
+      "repositoryURL": "https://github.com/datakaveri/sandbox-swm.git",
+      "referenceResources": [
+        {
+          "id": "varanasismartcity.gov.in/62d1f729edd3d2a1a090cb1c6c89356296963d55/rs.iudx.org.in/varanasi-swm-vehicle-live",
+          "name": "Varanasi Solid Waste Management Vehicle Positions",
+          "description": "Real Time location of solid waste management vehicles.",
+          "additionalInfoURL": "https://catalogue.iudx.org.in/dataset/varanasismartcity.gov.in-62d1f729edd3d2a1a090cb1c6c89356296963d55-rs.iudx.org.in-varanasi-swm-vehicle-live"
+
+        },
+        {
+          "id": "varanasismartcity.gov.in/62d1f729edd3d2a1a090cb1c6c89356296963d55/rs.iudx.org.in/varanasi-swm-bin-level",
+          "name": "Varanasi Solid Waste Management Bin Levels",
+          "description": "Real Time waste bin levels of solid waste management containers",
+          "additionalInfoURL": "https://catalogue.iudx.org.in/dataset/varanasismartcity.gov.in-62d1f729edd3d2a1a090cb1c6c89356296963d55-rs.iudx.org.in-varanasi-swm-bin-level"
+
+        },
+        {
+          "id": "varanasismartcity.gov.in/62d1f729edd3d2a1a090cb1c6c89356296963d55/rs.iudx.org.in/varanasi-swm-additional-info",
+          "name": "Varanasi Solid Waste Management Bin Locations",
+          "description": "Locations of waste collection containers in Varanasi",
+          "additionalInfoURL": "https://varanasi.catalogue.iudx.org.in/dataset/varanasismartcity.gov.in-62d1f729edd3d2a1a090cb1c6c89356296963d55-rs.iudx.org.in-varanasi-swm-additional-info"
+        }
+      ],
+      "itemCreatedAt": "2021-07-05T12:05:26+0530",
+      "instance": "sandbox"
+    }

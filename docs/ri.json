@@ -1,0 +1,155 @@
+[
+    {
+        "tags": [
+        ],
+        "type": [
+            "iudx:Resource",
+            "iudx:WasteManagement"
+        ],
+        "description": "Archive for the period Feb1-Feb10 2022",
+        "@context": "https://voc.iudx.org.in/",
+        "label": "Vehicle Positions for February 1 - February 10 2022",
+        "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+        "name": "swmvehiclefeb1tofeb10",
+        "itemStatus": "ACTIVE",
+        "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/varanasi-swm",
+        "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/swm-data/varanasi_swm_feb_1_10.parquet",
+        "instance": "sandbox"
+    },
+    {
+        "tags": [
+        ],
+        "type": [
+            "iudx:Resource",
+            "iudx:WasteManagement"
+        ],
+        "description": "Archive for the period Feb11-Feb20 2022",
+        "@context": "https://voc.iudx.org.in/",
+        "label": "Vehicle Positions for February 11 - February 20 2022",
+        "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+        "name": "swmvehiclefeb11tofeb20",
+        "itemStatus": "ACTIVE",
+        "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/varanasi-swm",
+        "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/swm-data/varanasi_swm_feb_11_20.parquet",
+        "instance": "sandbox"
+    },
+    {
+      "tags": [
+      ],
+      "type": [
+        "iudx:Resource",
+        "iudx:WasteManagement"
+      ],
+      "description": "Archive for the period Feb21-Feb28 2022",
+      "@context": "https://voc.iudx.org.in/",
+      "label": "Vehicle Positions for February 21 - February 28 2022",
+      "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+      "name": "swmvehiclefeb21tofeb28",
+      "itemStatus": "ACTIVE",
+      "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/varanasi-swm",
+      "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/swm-data/varanasi_swm_feb_21_28.parquet",
+      "instance": "sandbox"
+    },
+    {
+      "tags": [
+      ],
+      "type": [
+        "iudx:Resource",
+        "iudx:WasteManagement"
+      ],
+      "description": "Archive for the period Jan11-Jan20 2022",
+      "@context": "https://voc.iudx.org.in/",
+      "label": "Vehicle Positions for January 11 - January 20 2022",
+      "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+      "name": "swmvehiclejan11tojan20",
+      "itemStatus": "ACTIVE",
+      "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/varanasi-swm",
+      "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/swm-data/varanasi_swm_jan_11_20.parquet",
+      "instance": "sandbox"
+    },
+    {
+      "tags": [
+      ],
+      "type": [
+        "iudx:Resource",
+        "iudx:WasteManagement"
+      ],
+      "description": "Archive for the period Jan1-Jan10 2022",
+      "@context": "https://voc.iudx.org.in/",
+      "label": "Vehicle Positions for January 1 - January 10 2022",
+      "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+      "name": "swmvehiclejan1tojan10",
+      "itemStatus": "ACTIVE",
+      "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/varanasi-swm",
+      "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/swm-data/varanasi_swm_jan_1_10.parquet",
+      "instance": "sandbox"
+    },
+    {
+      "tags": [
+      ],
+      "type": [
+        "iudx:Resource",
+        "iudx:WasteManagement"
+      ],
+      "description": "Archive for the period Jan21-Jan31 2022",
+      "@context": "https://voc.iudx.org.in/",
+      "label": "Vehicle Positions for January 21 - January 31 2022",
+      "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+      "name": "swmvehiclejan21tojan31",
+      "itemStatus": "ACTIVE",
+      "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/varanasi-swm",
+      "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/swm-data/varanasi_swm_jan_21_31.parquet",
+      "instance": "sandbox"
+    },
+    {
+      "tags": [
+      ],
+      "type": [
+        "iudx:Resource",
+        "iudx:WasteManagement"
+      ],
+      "description": "Archive for the period Mar11-Mar20 2022",
+      "@context": "https://voc.iudx.org.in/",
+      "label": "Vehicle Positions for March 11 - March 20 2022",
+      "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+      "name": "swmvehiclemar11tomar20",
+      "itemStatus": "ACTIVE",
+      "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/varanasi-swm",
+      "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/swm-data/varanasi_swm_mar_11_20.parquet",
+      "instance": "sandbox"
+    },
+    {
+      "tags": [
+      ],
+      "type": [
+        "iudx:Resource",
+        "iudx:WasteManagement"
+      ],
+      "description": "Archive for the period Mar1-Mar10 2022",
+      "@context": "https://voc.iudx.org.in/",
+      "label": "Vehicle Positions for March 1 - March 10 2022",
+      "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+      "name": "swmvehiclemar1tomar10",
+      "itemStatus": "ACTIVE",
+      "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/varanasi-swm",
+      "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/swm-data/varanasi_swm_mar_1_10.parquet",
+      "instance": "sandbox"
+    },
+    {
+      "tags": [
+      ],
+      "type": [
+        "iudx:Resource",
+        "iudx:WasteManagement"
+      ],
+      "description": "Bin position details",
+      "@context": "https://voc.iudx.org.in/",
+      "label": "Waste bin positions",
+      "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+      "name": "swmwastebinpositions",
+      "itemStatus": "ACTIVE",
+      "resourceGroup": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/varanasi-swm",
+      "downloadURL": "https://iudx-cat-sandbox-dev.s3.ap-south-1.amazonaws.com/swm-data/varanasi_swm_bin.parquet",
+      "instance": "sandbox"
+    }
+]
